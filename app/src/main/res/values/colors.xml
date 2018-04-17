@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#969696</color>
+    <color name="colorPrimaryDark">#7C7C7C</color>
+    <color name="colorAccent">#38B0DE</color>
+    <color name="titleColor">#FFF</color>
+    <color name="X_axis">#00FF00</color>
+    <color name="Y_axis">#00FFFF</color>
+    <color name="Z_axis">#FF0000</color>
+</resources>
+
+

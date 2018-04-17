@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="nikodem_gortych.fftapp.MainActivity">
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings" />
+    <item
+        android:id="@+id/about_activity"
+        android:title="@string/about_activity" />
+    <item
+        android:id="@+id/about_FFT"
+        android:title="@string/about_FTT" />
+</menu>

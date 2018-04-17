@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">FFTapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_activity">About app</string>
+    <string name="about_FTT">About FFT</string>
+    <string name="x_axis">x_axis</string>
+    <string name="y_axis">y_axis</string>
+    <string name="z_axis">z_axis</string>
+    <string name="accelerometer">Accelerometer sensor</string>
+    <string name="iterations">Iterations</string>
+    <string name="acceleration">m/s^2</string>
+    <string name="spectrum">FFT spectrum</string>
+    <string name="frequency">Frequency</string>
+    <string name="magnitude">Magnitude</string>
+    <string name="fft">FFT</string>
+    <string name="ifft">IFFT</string>
+    <string name="data">DATA</string>
+    <string name="settings">Settings</string>
+    <string name="full_name">FFT Application</string>
+    <string name="author">Nikodem Gortych</string>
+    <string name="place">Rzeszów 2017</string>
+    <string name="calculation_in_progress">Calculation in progress</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="ifft_page">IFFT Page</string>
+    <string name="table_size">Table size:</string>
+    <string name="library">Library:</string>
+    <string name="sensor_speed">Sensor speed:</string>
+    <string name="inf_part_1">Time to complete the array: </string>
+    <string name="inf_part_2">Number of reads per second: </string>
+    <string name="inf_part_3">Choosing too large an array size, coupled with a choice of too high read speeds, can cause application errors.</string>
+    <string name="reads_from_acc"> - reads from sensor</string>
+    <string name="reads_after_ifft"> - reads after IFFT</string>
+    <string name="about_fft">A <b>fast Fourier transform (FFT)</b> algorithm computes the discrete Fourier transform (DFT) of a sequence, or its inverse (IFFT).
+        Fourier analysis converts a signal from its original domain (often time or space) to a representation in the frequency domain and vice versa.</string>
+    <string name="about_jTransform"><b>JTransforms</b> is the first, open source, multithreaded FFT library written in pure Java.
+        The code is derived from General Purpose FFT Package written by Takuya Ooura and from Java FFTPack written by Baoshe Zhang.\nSource: <i>https://sites.google.com/site/piotrwendykier/software/jtransforms</i></string>
+    <string name="about_algs4"><b>algs4</b> is library edited by Robert Sedgewick and Kevin Wayne surveys the most important algorithms and data structures in use today.\nSource: <i>http://algs4.cs.princeton.edu/home</i>
+    </string>
+    <string name="break_in_file_1">************ X Axis ************\n  Reads from sensor / Reads after IFFT / Diffrence\n</string>
+    <string name="break_in_file_2">************ Y Axis ************\n  Reads from sensor / Reads after IFFT / Diffrence\n</string>
+    <string name="break_in_file_3">************ Z Axis ************\n  Reads from sensor / Reads after IFFT / Diffrence\n</string>
+    <string name="folder_name">FFTfile</string>
+    <string name="file_saved">File saved</string>
+    <string name="no_file">No file name!</string>
+    <string name="file_name">File name</string>
+    <string name="cancel">CANCEL</string>
+    <string name="save">SAVE</string>
+
+    <string-array name="library_arrays">
+        <item>jTransforms</item>
+        <item>algs4</item>
+    </string-array>
+</resources>
+
+
